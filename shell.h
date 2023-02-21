@@ -181,7 +181,7 @@ char *convert_number(long int, int, int);
 void remove_comments(char *);
 
 /* toem_builtin.c */
-int _exit(info_t *);
+int _myexit(info_t *);
 int _cd(info_t *);
 int _help(info_t *);
 
