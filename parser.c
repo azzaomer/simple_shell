@@ -3,7 +3,7 @@
 /**
  * is_cmd - determines if a file is an executable command
  * @info: the info struct
- * @path: path to the file
+ * @path: file path
  *
  * Return: 1 if true, 0 otherwise
  */
